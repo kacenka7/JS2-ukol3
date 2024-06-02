@@ -1,0 +1,19 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.header__link{
+  flex: calc(100%/3);
+  text-decoration: none;
+  color: black;
+  background-color: bisque;
+  text-align: center;
+  padding: 3% 0;
+  margin: 2%;
+}
+
+
+.photo{
+  width: 30%;
+}
